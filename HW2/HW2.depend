@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575474578 source:c:\cs201\hw2\main.cpp
+	<iostream>
+	<ctime>
+
